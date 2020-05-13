@@ -13,8 +13,24 @@ Attached below are all the UML and Diagrams used throught the creation of the pr
 
 <h4>UML Diagram</h4>
 
+<p align="center">
+	<img src="MusicApplication_Photos/UML_Class_Diagram.png" alt="UML Class Diagram"/>
+</p>
+
 <h4>Site Map Diagram</h4>
+
+<p align="center">
+	<img src="MusicApplication_Photos/Sitemap_Diagram.png" alt="UML Class Diagram"/>
+</p>
 
 <h4>ER Diagram</h4>
 
+<p align="center">
+	<img src="MusicApplication_Photos/ER_Diagram.png" alt="UML Class Diagram"/>
+</p>
+
 <h4>Final Product</h4>
+
+<p align="center">
+	<img src="MusicApplication_Photos/Final_Product_Screenshots.png" alt="UML Class Diagram"/>
+</p>
